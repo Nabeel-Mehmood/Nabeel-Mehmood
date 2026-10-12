@@ -23,7 +23,7 @@ Research interests are centered around **Explainable AI (XAI)**, efficient deep 
 <!-- 🚀 Futuristic AI Research Profile -->
 
 <h2 align="center">
-  🌌 <span style="color:#00f0ff;">AI Research & Intelligent Systems</span> 🌌
+  🌌 <span style="color:#00f0ff;">AI Intelligent Systems</span> 🌌
 </h2>
 
 <p align="center">
